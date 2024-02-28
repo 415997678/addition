@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### VueAdmin - 基于SpringBoot+Jwt+Vue的前后端分离后台管理系统
 
 完整教学！从0到1开发，手把手教你学会开发一个spring security + jwt + vue的前后端分离项目！
@@ -29,3 +30,6 @@ springboot、spring security、myabtis plus、jwt、vue、element-ui
 ### 进群学习
 
 加我微信 java-mindman3，记得备注【 VueAdmin 】，我会拉群！
+=======
+# addition
+>>>>>>> 40e480ab20e97f30d58bfafd4ac79f0543a6a639
